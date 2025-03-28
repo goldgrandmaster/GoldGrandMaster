@@ -12,7 +12,8 @@ I am a Senior Full-Stack Developer & AI/ML Engineer with 8+ years of experience 
 - ✔ CI/CD & Automation: GitHub Actions, GitLab CI, Jenkins, ArgoCD
 
 🧠 AI & Machine Learning Expertise
-- ✔ ML/DL Frameworks: TensorFlow, PyTorch, Keras, Scikit-Learn✔ LLMs & Generative AI: OpenAI, LangChain, RAG, Fine-tuning models, Hugging Face
+- ✔ ML/DL Frameworks: TensorFlow, PyTorch, Keras, Scikit-Learn
+- ✔ LLMs & Generative AI: OpenAI, LangChain, RAG, Fine-tuning models, Hugging Face
 - ✔ NLP & Computer Vision: Transformers, BERT, GPT, OCR (Tesseract, OpenCV), YOLO, CNNs
 - ✔ MLOps & Deployment: MLflow, Kubeflow, AWS SageMaker, Vertex AI, ONNX, FastAPI for AI APIs
 - ✔ Data Engineering: Apache Spark, Kafka, Pandas, NumPy, ETL Pipelines
