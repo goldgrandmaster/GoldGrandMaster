@@ -1,5 +1,7 @@
 🚀 Senior Full-Stack Developer | AI/ML Engineer | GenAI | Data Scientist | Scalable Web & AI Solutions
+
 👋 About Me
+
 I am a Senior Full-Stack Developer & AI/ML Engineer with 8+ years of experience in designing and developing scalable, high-performance web applications and AI-driven solutions. I specialize in full-stack development using modern technologies and have a strong background in machine learning, deep learning, and AI automation. My expertise lies in delivering efficient, scalable, and maintainable software solutions that power businesses.
 
 💻 Full-Stack Development Expertise
